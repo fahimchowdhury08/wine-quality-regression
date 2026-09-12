@@ -1,6 +1,6 @@
 # Wine Quality Prediction (Regression)
 
-Predicting red wine quality scores from physicochemical properties using regression.
+A regression project estimating red wine quality from lab-measured chemical properties.
 
 ## Overview
 
